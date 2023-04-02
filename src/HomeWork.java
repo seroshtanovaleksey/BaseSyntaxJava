@@ -11,7 +11,6 @@ public class HomeWork {
         String ageFriend = in.nextLine();
 
         System.out.println("Моему другу "+nameFriend+" на данный момент "+ageFriend+" лет");
-        System.out.println("тест");
 
     }
 }
